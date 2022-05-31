@@ -6,7 +6,7 @@ dfexpression = pd.read_csv("TCGA_BRCA_Expression.csv")
 
 # Filter HCC Samples
 dfsampleinfo.set_index('sample',inplace=True)
-dfsampleinfo = dfsampleinfo[(dfsampleinfo['sample_type'] == "Primary Tumor")|(dfsampleinfo['sample_type'] == "Metastatic")]
+dfsampleinfo = dfsampleinfo[dfsampleinfo['sample_type'] == "Primary Tumor"]
 dfsampleinfo['sample'] = dfsampleinfo.index
 
 
