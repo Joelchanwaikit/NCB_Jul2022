@@ -6,18 +6,18 @@ Code is provided for documentation purposes only. To run the code, do take note 
 
 ## Code Functions 
 
-1) GSEA Plotter
+1) Figure 9a 
+Plotted using GSEAPlotter.py
+2) Figure 9b
+Plotted in Cytoscape, Genes to be plotted filtered using CombineStuff2.py and determined through MicroArray Analysis.R
+3) Figure 9c 
+PLotted in Dotplot.R
+4) Figure 9j
+Plotted in GSEAPlotter.py
+5) Figure 9k, 9L
+Data cleaned and analysed through XenaFilter.py and TableFormatter.py
+6) Extended Fig 9e-9g
+Plotted and Analysed through DESeq2 using MicroArray Analysis.R
+7) Extended Fig 9i-9k
+Data cleaned using XeneFilter.py and plotted in Heatampscript.R
 
-Plotting the results from the GSEA app with Enrichment with Kegg Pathways 
-
-2) Heatampscript
-
-Plotting Heatmaps based on log2 values. Do note that col_gap, row_gap as well as the as.matrix arguments need to be changed based on size of your data 
-
-3) MicroarrayAnalysis 
-
-Script for DEG using DEseq2 
-
-4) Tableformatter, XENAfilter, combinestuff2
-
-Pandas scripts for merging and filtering datatables.
