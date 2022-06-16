@@ -19,5 +19,5 @@ Data cleaned and analysed through XenaFilter.py and TableFormatter.py
 ### 6) Extended Fig 9e-9g
 Plotted and Analysed through DESeq2 using MicroArray Analysis.R
 ### 7) Extended Fig 9i-9k
-Data cleaned using XeneFilter.py and plotted in Heatampscript.R
+Data cleaned using XeneFilter.py and plotted in Heatmapscript.R
 
