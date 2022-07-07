@@ -82,7 +82,5 @@ stats <- topTable(fit, number = nrow(fit), sort.by = "none")
 # Plot a histogram of the p-values
 hist(stats[, "P.Value"])
 
-# Create a volcano plot. Highlight the top 5 genes (Not working)
-volcanoplot(fit)
 
 write.csv(stats,"C:\\Users\\joelc\\OneDrive\\Desktop\\limmaresults.csv")
