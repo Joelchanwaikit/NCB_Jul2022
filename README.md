@@ -20,6 +20,14 @@ Plotted in GSEAPlotter.py
 Data cleaned and analysed through XenaFilter.py and TableFormatter.py
 ### 6) Extended Fig 9e-9g
 Plotted and Analysed through DESeq2 using MicroArray Analysis.R
-### 7) Extended Fig 9i-9o
-Data cleaned using XeneFilter.py or TableFormatter.py and plotted in Heatmapscript.R
+### 7) Extended Fig 9h-9j
+Data cleaned using XeneFilter.py and plotted in Heatmapscript.R
+### 8) Extended Fig9k
+Plotted in GSEAPlotter.py
+### 8) Extended Fig9l-o
+Data cleaned using Tableformatter.py and plotted in Heatmapscript.R
+### 9) Extended Fig9q-r
+Genes to be plotted filtered using CombineStuff2.py and determined through Limma.R
+
+Source Data uploaded as SourceData and SourceData2.
 
