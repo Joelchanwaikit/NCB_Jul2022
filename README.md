@@ -27,7 +27,7 @@ Plotted in GSEAPlotter.py
 ### 8) Extended Fig9l-o
 Data cleaned using Tableformatter.py and plotted in Heatmapscript.R
 ### 9) Extended Fig9q-r
-Genes to be plotted filtered using CombineStuff2.py and determined through Limma.R
+Genes to be plotted filtered using CombineStuff2.py and determined through Limmacode.R
 
 Source Data uploaded as SourceData and SourceData2.
 
